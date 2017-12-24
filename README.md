@@ -1,12 +1,15 @@
 ## Your Name
 
-Hi, I'm Antonia, a Ruby on Rails, PHP full-stack developer with a love of Agile and TDD. Having worked in commercial, Government and freelance positions....
+Hi, I'm Antonia, a Ruby on Rails and PHP full-stack developer with a love of Agile and TDD. Having worked in commercial, Government and freelance positions, I am looking for a position in an Agile setting where I can work hard, and make useful things work well.
+
+<https://www.codewars.com/users/AttyC/badges/large>
+http://www.atty-dev.co.uk
 
 ## Skills
 
 #### This Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+TBA: Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - Experience
 - Achievements
@@ -14,7 +17,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Another Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+TBA: Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
@@ -26,7 +29,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Makers Academy (November 2017 - March 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner  - I taught myself PHP, took a RoR course to get abck into web development after children.
+- Fast, independent learner  - I taught myself PHP, took a RoR course to get back into web development after children.
 - Great collaborator [PROVIDE EVIDENCE]
 
 - OOP, TDD, MVC, DDD
@@ -34,29 +37,56 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
+#### Skillcrush September - December 2015
+Freelance WordPress Developer
+
+Activities and Societies: MightyBell
+Advanced WordPress, advanced custom fields, custom post types, theme customisation, PHP, MySQL, Git, portfolio development, industry apprenticeship
+
+#### CareerFoundry (March 2015 - Oct 2015)
+Full Stack Web Developer
+Front End Development, Ruby on Rails
+
+Activities and Societies: Slack community
+HTML & CSS, Bootstrap Front End Framework, Javascript, jQuery, AJAX, Git Version Control, Heroku, Ruby Programming Language, Ruby on Rails MVC Framework, User Authentication & Authorization, Stripe Payment Processing, Caching
+
 Spherion Institute (London) (2003-2005 - evenings)
 
 - Diploma in e-Commerce
 - A Average
 - Linux, programming concepts, web design, web servers, networking
 
-#### Your University / College (start_date to end_date)
+#### Manchester University (September 1991 - July 1994)
 
 - English lang and Lit
 - 2:2
-- Other cool stuff
-
-#### Any other qualifications
 
 ## Experience
+**Freelance (Jul 2017 – Present)**
+*Front End Web / WordPress Developer*
+London
+
+Hand-code / develop HTML/CSS singe-page and WordPress sites for local small businesses and charity. jQuery, Git, GitHub, FTP.
 
 Civil Service (October 2016 - June 2017)    
 Software developer
 Java, Cucumber automated testing, Agile
 
-**Company Name** (start_date to end_date)    
-*Your job title*
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**IPC Media** (Apr 2008 – Jul 2009)    
+*Web Developer (Southbank)*
+Southbank, London
+- Develop magazine websites (Woman & Home, Living Etc., Marie Claire);
+- CSS for Woman & Home relaunch
+- Agile/SCRUM environment
+- QA Testing
+- symfony PHP framework
+
+**WEXAS Travel** (2007 – Apr 2008)    
+*Web Developer*  
+Knightsbridge, London
+- Instrumental in all aspects of creating a brand new company and website (www.whydontyou.com)
+- Develop/maintain/test travel websites and company intranet (www.wexas.com, WhiteStarCruises)
+- Create/approve HTML marketing emails and online forms
+- Liaison for Immediacy (CMS suppliers) and internally for various projects.
+- Train and advise 2-3 staff, project manage and liaise with other departments on web projects
+- Evenings: Create a friend’s business website, advise on SEO/directory submissions (www.fleurieflowers.com)
