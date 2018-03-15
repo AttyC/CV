@@ -11,6 +11,7 @@ I am looking for a web or software position where I can contribute to Agile team
 | Project                | Description     |  Languages     |   Testing     |      GitHub     |                             
 | -----------------------|:--------------- | ------------- | --------------| :-------------: |
 | [Rock, Paper, Scissors](https://rps-attyc.herokuapp.com/) | Week 3, test-driven game of Rock, Paper, Scissors | Ruby, Sinatra, CSS | RSpec, Capybara|   [GitHub ](https://github.com/AttyC/rps-challenge) |
+| Notes | Week 7 - JavaScript Notes App with testing | Plain JavaScript only  - part project/part solo  | JavaScript | [GitHub](https://github.com/AttyC/notes-app)  |
 | Bleat  | Week 8 - Rails clone of Yelp restaurant review site    | Ruby on Rails,  TDD, project work, GitHub collaboration   | RSpec | [GitHub](https://github.com/AttyC/bleat)  |
 | Dinder |  Week 11, Final Project learn a new stack and build demo app   |  MERN stack - MongoDB, Express, Node.js, React.js    | Jest  | [GitHub](https://github.com/SimonBao/Dindr)
 
@@ -23,16 +24,15 @@ I am looking for a web or software position where I can contribute to Agile team
 
 #### Technical Experience
 
-Freelance (2015 – Present)
+Freelance (2015 – Present)  
 *Front End Web / WordPress Developer*
-
 Hand-code / develop single-page and WordPress sites for local small businesses and charity.
 
 http://dcvi.bitballoon.com/ HTML/CSS/jQuery  
 http://www.walthamstowtoylibrary.org/ WordPress
 
 __Civil Service__  (October 2016 - June 2017)  
-*Software developer*
+*Software developer*  
 Java, Cucumber automated testing, Jira, BitBucket
 
 **IPC Media** (Apr 2008 – Jul 2009)    
