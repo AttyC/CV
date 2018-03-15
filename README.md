@@ -1,6 +1,6 @@
 ## Antonia Cronin
 
-Hi, I'm a Ruby on Rails, JavaScript and PHP junior full-stack developer with a love of Agile and TDD. A recent graduate of __Makers Academy__, I have also worked in commercial, Government and freelance positions.  
+Hi, I'm a Ruby on Rails, JavaScript and PHP developer with a love of Agile and TDD. A recent graduate of __Makers Academy__, I have also worked in commercial, Government and freelance positions.  
 
 I am looking for a web or software position where I can contribute to Agile teams, continue to learn new technologies and test-drive development.
 
@@ -10,25 +10,25 @@ I am looking for a web or software position where I can contribute to Agile team
 
 | Project                | Description     |  Languages  |   Testing   |  GitHub   |                             
 | -----------------------|:-------------| ---------------------------| :-------------: |
-| [Rock, Paper, Scissors](https://rps-attyc.herokuapp.com/) | Week 3, build a test-driven game of Rock, Paper, Scissors | Ruby, Sinatra, CSS | RSpec, Capybara|   [GitHub ](https://github.com/AttyC/rps-challenge) |
-|     |       |    |    |
-|  |     |     |   |
+| [Rock, Paper, Scissors](https://rps-attyc.herokuapp.com/) | Week 3, test-driven game of Rock, Paper, Scissors | Ruby, Sinatra, CSS | RSpec, Capybara|   [GitHub ](https://github.com/AttyC/rps-challenge) |
+| Bleat  | Week 8 - Rails clone of Yelp restaurant review site    | Ruby on Rails,  TDD, project work, GitHub collaboration   | RSpec | [GitHub](https://github.com/AttyC/bleat)  |
+| Dinder |  Week 11, Final Project learn a new stack and build demo app   |  MERN stack - MongoDB, Express, Node.js, React.js    | Jest  | [GitHub]](https://github.com/SimonBao/Dindr)
 
-- Curious and passionate about code. Courses at CareerFoundry, develop my own little game based on a children's book
-- Fast, independent learner  - I taught myself PHP, took a RoR course to get back into web development after children.
+- Constant desire to learn about tech: Online learning with SkillCrush, CodeSchool and  CareerFoundry.
+- Independent learner  - I taught myself PHP.  Working on my own little game based on a children's book.
 - Great collaborator  - daily pair-programming, feedback, self-reflection
-- TDD - RSpec, Jasmine, Capybara
+- TDD - RSpec, Jasmine, Capybara, Jest
 - Agile/XP, pair-programming
-- Ruby, Rails, JavaScript
+
 
 #### Technical Experience
 
 **Freelance (2015 – Present) **  
 __Front End Web / WordPress Developer__  
-HTML/CSS/jQuery  
+
 Hand-code / develop single-page and WordPress sites for local small businesses and charity.
 
-http://dcvi.bitballoon.com/ HTML/CSS/jQuery
+http://dcvi.bitballoon.com/ HTML/CSS/jQuery  
 http://www.walthamstowtoylibrary.org/ WordPress
 
 __Civil Service (October 2016 - June 2017)__   
@@ -39,9 +39,8 @@ Java, Cucumber automated testing, Jira, BitBucket
 *Web Developer (Southbank)*
 London
 - Develop magazine websites (Woman & Home, Living Etc., Marie Claire);
-- CSS for Woman & Home relaunch
-- Agile/SCRUM environment
-- exposure to symfony PHP framework
+- CSS/HTML exposure to symfony PHP framework
+- Agile/SCRUM environment  
 
 
 **WEXAS Travel** (2007 – Apr 2008)    
@@ -64,16 +63,16 @@ Knightsbridge, London
 Freelance WordPress Developer
 
 Activities and Societies: MightyBell
-Advanced WordPress, advanced custom fields, custom post types, theme customisation, PHP, MySQL, Git, portfolio development, industry apprenticeship
+Advanced WordPress, advanced custom fields, custom post types, theme customisation, PHP, MySQL, Git, portfolio development
 
 #### CareerFoundry (March 2015 - Oct 2015)
 Full Stack Web Developer
 Front End Development, Ruby on Rails
 
 Activities and Societies: Slack community
-HTML & CSS, Bootstrap Front End Framework, Javascript, jQuery, AJAX, Git Version Control, Heroku, Ruby Programming Language, Ruby on Rails MVC Framework, User Authentication & Authorization, Stripe Payment Processing, Caching
+HTML & CSS, Bootstrap Front End Framework, Javascript, jQuery, AJAX, Git Version Control, Heroku, Ruby Programming Language, Ruby on Rails MVC Framework, User Authentication & Authorisation, Stripe Payment Processing, Caching
 
-Spherion Institute (London) (2003-2005 - evenings)
+#### Spherion Institute (London) (2003-2005 - evenings)
 
 - Diploma in e-Commerce
 - A Average
@@ -84,5 +83,5 @@ Spherion Institute (London) (2003-2005 - evenings)
 - English lang and Lit
 - 2:2
 
-
-## Experience
+## Interests
+I have sung in covers bands for the last 15 years and have walked on hot coals for charity!
