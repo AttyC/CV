@@ -8,8 +8,8 @@ I am looking for a web or software position where I can contribute to Agile team
 
 #### Makers Academy (November 2017 - March 2018)
 
-| Project                | Description     |  Languages  |   Testing   |  GitHub   |                             
-| -----------------------|:-------------| ---------------------------| :-------------: |
+| Project                | Description     |  Languages     |   Testing     |      GitHub     |                             
+| -----------------------|:--------------- | -------------: | --------------| :-------------: |
 | [Rock, Paper, Scissors](https://rps-attyc.herokuapp.com/) | Week 3, test-driven game of Rock, Paper, Scissors | Ruby, Sinatra, CSS | RSpec, Capybara|   [GitHub ](https://github.com/AttyC/rps-challenge) |
 | Bleat  | Week 8 - Rails clone of Yelp restaurant review site    | Ruby on Rails,  TDD, project work, GitHub collaboration   | RSpec | [GitHub](https://github.com/AttyC/bleat)  |
 | Dinder |  Week 11, Final Project learn a new stack and build demo app   |  MERN stack - MongoDB, Express, Node.js, React.js    | Jest  | [GitHub](https://github.com/SimonBao/Dindr)
