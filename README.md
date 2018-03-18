@@ -13,7 +13,7 @@ I am looking for a web or software position where I can contribute to Agile team
 | [Rock, Paper, Scissors](https://rps-attyc.herokuapp.com/) | Week 3, test-driven game of Rock, Paper, Scissors | Ruby, Sinatra, CSS | RSpec, Capybara|   [GitHub ](https://github.com/AttyC/rps-challenge) |
 | Notes | Week 7 - JavaScript Notes App with testing | Plain JavaScript only  - part project/part solo  | JavaScript | [GitHub](https://github.com/AttyC/notes-app)  |
 | Bleat  | Week 8 - Rails clone of Yelp restaurant review site    | Ruby on Rails,  TDD, project work, GitHub collaboration   | RSpec | [GitHub](https://github.com/AttyC/bleat)  |
-| Dinder |  Week 11, Final Project learn a new stack and build demo app   |  MERN stack - MongoDB, Express, Node.js, React.js    | Jest  | [GitHub](https://github.com/SimonBao/Dindr)
+| Dinder |  Week 11, Final Project learn a new stack and build demo app   |  MERN stack - MongoDB, Express, Node.js, React.js    | Jest  | [GitHub](https://github.com/AttyC/Dindr)
 
 - Constant desire to learn about tech: Online learning with SkillCrush, CodeSchool and  CareerFoundry.
 - Independent learner  - I taught myself PHP.  Working on my own little game based on a children's book.
